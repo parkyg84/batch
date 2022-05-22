@@ -27,9 +27,7 @@ public class BatchConfiguration {
 
     private final JobBuilderFactory jobBuilderFactory;
     private final StepBuilderFactory stepBuilderFactory;
-    private DataSource dataSource;
-
-
+    private final DataSource dataSource;
 
     BatchConfiguration(JobBuilderFactory jobBuilderFactory,
                      StepBuilderFactory stepBuilderFactory,
