@@ -10,7 +10,7 @@ sourceCompatibility = '17'
 
 
 apply plugin: 'application'
-mainClassName = 'com.batch.balance.BalanceApplication'
+//mainClassName = 'com.batch.balance.BalanceApplication'
 
 
 
